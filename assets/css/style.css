@@ -1,0 +1,39 @@
+body {
+    display: grid;
+    grid-template-rows: 100px 50px 220px;
+}
+
+h1 {
+    font-family: 'Kumar One Outline', cursive;
+    padding-left: 50px;
+}
+
+div {
+    font-family: 'Work Sans', sans-serif;
+    padding-left: 50px;
+    font-size: 15px;
+}
+
+.crystals {
+    position: relative;
+}
+
+#c0 {
+    position: absolute;
+    left: 0%;
+}
+
+#c1 {
+    position: absolute;
+    left: 10%;
+}
+
+#c2 {
+    position: absolute;
+    left: 20%;
+}
+
+#c3 {
+    position: absolute;
+    left: 30%;
+}
